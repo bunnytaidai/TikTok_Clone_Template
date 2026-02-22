@@ -1,28 +1,29 @@
-# TikToi Clone Template
+# Iridium
 
-A clean and stylish TikTok profile page clone UI built with HTML and CSS. This template is perfect for developers, designers, or content creators looking to build a frontend for social media-like platforms.
+An iOS app decrypter, full static using fouldecrypt. Supporting iOS 13.5 <-> 14.3
 
-## 📌 Overview
+![Preview](./Workflow/Preview/main.png)
 
-**TikTok Clone Template** is a lightweight, static HTML + CSS project that replicates the look and feel of TikTok’s profile page. With a mobile-first approach, the template provides an engaging, scrollable UI, optimized for both desktop and mobile browsers.
+## Note
+
+- We have built everything into the package, you can install and fly.
+- App Iridium is running under mobile (501:501).
+- Auxiliary Agent will check the app and perform any root operations.
+- fouldecrypt is compiled using different KernInfra on different platforms.
+
+## License
+
+Iridium is licensed under MIT License, other frameworks have their own license inside the package folder.
+
+## Thanks
+
+- https://github.com/paradiseduo/appdecrypt
+- https://github.com/Lessica/fouldecrypt
+- https://github.com/NyaMisty/fouldecrypt
+- https://github.com/NyaMisty/KernInfra
 
 ---
 
-## 🚀 Features
+2022.1.7
 
-- 🧑‍🎤 Stylish profile section with:
-  - Circular avatar
-  - Username display
-  - Follower / Following / Like stats
-  - Bio and business inquiries
-  - Edit Profile button
-- 🖼️ Responsive media grid showcasing videos or posts
-- 📱 Mobile-first navigation bar with:
-  - Home
-  - Discover
-  - Upload
-  - Inbox
-  - Profile (highlighted)
-- 🌙 Dark mode UI aesthetic
-- 🔒 Lock icon for private content
-- 🔤 Custom fonts & minimalist icon use
+Copyright © 2022 Lakr Aream. All rights reserved.
